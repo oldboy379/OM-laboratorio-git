@@ -1,6 +1,7 @@
 
 attack = "Picadura de la cobra gay"
-effect = "si te pica se convierte en gay!!!"
+effect = "si te pica se convierte en gay!!! #NO"
+
 
 figure="""                        ████████████████████████████                                
                             ██████▒▒▒▒▒▒████▒▒▒▒▒▒▒▒████▒▒▒▒▒▒██████                          
